@@ -30,7 +30,7 @@ education:
     institution: University of North Carolina at Chapel Hill
     year: 2020
   - course: Master's, Sociology
-    institution: University of North Carolina at Chapel
+    institution: University of North Carolina at Chapel Hill
     year: 2016
   - course: Master's, Public Policy
     institution: University of Texas at Austin
