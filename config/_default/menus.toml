@@ -14,9 +14,19 @@
   weight = 20
 
 [[main]]
+  name = "Teaching"  # A link title for your page.
+  url = "#teaching"  # The URL of your page.
+  weight = 30  # The position of your page in the menu.
+
+[[main]]
   name = "Publications"
   url = "#publications"
   weight = 40
+
+[[main]]
+#    name = "CV"
+#    url = "files/Al-Turk, CV, 03.21.19.pdf"
+#    weight = 50
 
 [[main]]
   name = "Contact"
@@ -25,7 +35,4 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+
