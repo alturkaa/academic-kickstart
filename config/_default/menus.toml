@@ -32,7 +32,7 @@
   weight = 40  # The position of your page in the menu.
   
 [[main]]
-  name = "Policy-Related Documents, Research Reports, and Blog Posts"  # A link title for your page.
+  name = "Policy Documents, Reports, and Blog Posts"  # A link title for your page.
   url = "#policy-reports-posts"  # The URL of your page.
   weight = 50  # The position of your page in the menu.
   
