@@ -27,11 +27,26 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
 [[main]]
+  name = "Data and Code"  # A link title for your page.
+  url = "#data-code"  # The URL of your page.
+  weight = 40  # The position of your page in the menu.
+  
+[[main]]
+  name = "Policy-Related Documents, Research Reports, and Blog Posts"  # A link title for your page.
+  url = "#policy-reports-posts"  # The URL of your page.
+  weight = 50  # The position of your page in the menu.
+  
+[[main]]
+  name = "Durham Planning Commission"
+  url = "#commission"
+  weight = 60
+
+[[main]]
   name = "CV"
   url = "files/Al-Turk, CV, 03.21.19.pdf"
-  weight = 50
+  weight = 70
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 80
