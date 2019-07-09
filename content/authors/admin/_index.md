@@ -60,7 +60,7 @@ education:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
 #  icon_pack: ai
-#  link: files/Al-Turk, CV, 03.21.19.pdf
+#  link: files/Al-Turk, CV, 07.09.19.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,4 +72,6 @@ user_groups:
 - Visitors
 ---
 
-I am a doctoral candidate in the sociology department at UNC-Chapel Hill. 
+Welcome to my website! Here you'll find more about the research I'm working on, courses I've taught, and a little about my work experience. Currently, I'm a doctoral candidate in the sociology department at UNC-Chapel Hill, with a general interest in the intersection of public policies and organizational and political change.
+
+This site is still under construction!
