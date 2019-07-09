@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Teaching"  # A link title for your page.
-  url = "#teaching"  # The URL of your page.
+  url = "/teaching"  # The URL of your page.
   weight = 30  # The position of your page in the menu.
 
 # [[main]]
