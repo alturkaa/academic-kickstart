@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-2017. Aldrich, Howard E. and Akram Al-Turk. “Four strategies to increase the likelihood of creating and sustaining successful research teams.” LSE Impact Blog. Available [here]({{< a href "http://blogs.lse.ac.uk/impactofsocialsciences/2017/10/04/four-strategies-to-increase-the-likelihood-of-creating-and-sustaining-successful-research-teams/" >}}).
+2017. Aldrich, Howard E. and Akram Al-Turk. “Four strategies to increase the likelihood of creating and sustaining successful research teams.” LSE Impact Blog. Available <a href="http://blogs.lse.ac.uk/impactofsocialsciences/2017/10/04/four-strategies-to-increase-the-likelihood-of-creating-and-sustaining-successful-research-teams/">here</a>.
 
 2016. Al-Turk, Akram. “Place-Based Initiatives: A Report for the Kate B. Reynold Charitable Trust’s Healthy Places Initiative.” Duke University’s Division of Community Health. Available {{% staticref "files/Al-Turk, HPNC_report.pdf" %}}here{{% /staticref %}}.
 
