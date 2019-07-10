@@ -28,7 +28,7 @@
 
 [[main]]
   name = "Data and Code"  # A link title for your page.
-  url = "#data-code"  # The URL of your page.
+  url = "/data-code"  # The URL of your page.
   weight = 50  # The position of your page in the menu.
   
 [[main]]
