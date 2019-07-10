@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 95  # Order that this section will appear.
 
-title = "Recent Experience"
+title = "Work Experience"
 subtitle = ""
 
 # Date format for experience
@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company = "Durham Planning Commission"
   company_url = "https://durhamnc.gov/1367/Planning-Commission"
   location = "Durham, NC"
-  date_start = "2016-07"
+  date_start = "2016-07-01"
   date_end = ""
   description = ""
 
@@ -32,8 +32,8 @@ date_format = "Jan 2006"
   company = "International Budget Partnership (IBP) of the Center on Budget and Policy Priorities"
   company_url = "https://www.internationalbudget.org/"
   location = "Washington, DC"
-  date_start = "2012-08"
-  date_end = "2014-08"
+  date_start = "2012-08-01"
+  date_end = "2014-08-01"
   description = ""
   
 [[experience]]
@@ -41,8 +41,8 @@ date_format = "Jan 2006"
   company = "The Brookings Institution"
   company_url = "https://www.brookings.edu/"
   location = "Washington, DC"
-  date_start = "2010-01"
-  date_end = "2012-08"
+  date_start = "2010-01-01"
+  date_end = "2012-08-01"
   description = ""
 
 +++
