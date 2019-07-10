@@ -29,12 +29,12 @@
 [[main]]
   name = "Data and Code"  # A link title for your page.
   url = "#data-code"  # The URL of your page.
-  weight = 40  # The position of your page in the menu.
+  weight = 50  # The position of your page in the menu.
   
 [[main]]
-  name = "Policy Documents, Reports, Blog Posts"  # A link title for your page.
+  name = "Policy Reports, Blog Posts, Etc."  # A link title for your page.
   url = "/policy-reports-posts"  # The URL of your page.
-  weight = 50  # The position of your page in the menu.
+  weight = 40  # The position of your page in the menu.
   
 # [[main]]
 #  name = "Durham Planning Commission"
