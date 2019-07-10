@@ -23,7 +23,7 @@ Short descriptions and syllabi of courses I've taught:
 
 Organizations are everywhere. Nearly all of us spend a considerable amount of time as part of an organization. Organizations provide most of our goods and services, influence our beliefs and values, and shape and are shaped by larger institutions in society. In this course, we will explore the interactions that go on inside organizations, and more importantly, how organizations interact with each other and with their environments.
 
-- {{% staticref "files/teaching/soc273_fa_2018.pdf" %}}SOCI 273: Social and Economic Justice -- Experiential Learning (fall 2018){{% /staticref %}}
+- {{% staticref "files/teaching/soc273_fa_2018.pdf" %}}SOCI 273: Social and Economic Justice (fall 2018){{% /staticref %}}
 
 In this course, we will focus on three main questions. First, what explains social and economic inequality? Second, what have social scientists and political philosophers argued would constitute a more equal and just society? And third, what role do schools and civil society organizations play in perpetuating or alleviating social and economic inequality?
 

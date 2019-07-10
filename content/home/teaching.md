@@ -21,7 +21,7 @@ I have taught the following courses while at UNC. For short course descriptions,
 
 - {{% staticref "files/teaching/soc_mngt_410_syllabus_v3.pdf" %}}MNGT/SOCI 410: Formal Organizations and Bureaucracy (spring 2019){{% /staticref %}}
 
-- {{% staticref "files/teaching/soc273_fa_2018.pdf" %}}SOCI 273: Social and Economic Justice -- Experiential Learning (fall 2018){{% /staticref %}}
+- {{% staticref "files/teaching/soc273_fa_2018.pdf" %}}SOCI 273: Social and Economic Justice (fall 2018){{% /staticref %}}
 
 - {{% staticref "files/teaching/soc133_sp_2018.pdf" %}}SOCI 133: Sociology of Politics (fall 2017 and spring 2018){{% /staticref %}}
 
