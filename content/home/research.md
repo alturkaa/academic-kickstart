@@ -74,7 +74,7 @@ subtitle = ""
  css_class = ""
 +++
 
-### Manuscripts Under Review (Available Upon Request)
+### Under Review (Available Upon Request)
 
 - Al-Turk, Akram. “The Effects of Resource Dispersion and Policy Implementation on New Policy Adoption.”
 
