@@ -15,11 +15,11 @@ weight = 60
 
 +++
 
-Aldrich, Howard E. and Akram Al-Turk. 2017. “Four strategies to increase the likelihood of creating and sustaining successful research teams.” LSE Impact Blog. Available <a href="http://blogs.lse.ac.uk/impactofsocialsciences/2017/10/04/four-strategies-to-increase-the-likelihood-of-creating-and-sustaining-successful-research-teams/">here</a>.
+Aldrich, Howard E. and Akram Al-Turk. 2017. “Four strategies to increase the likelihood of creating and sustaining successful research teams.” *LSE Impact Blog*. Available <a href="http://blogs.lse.ac.uk/impactofsocialsciences/2017/10/04/four-strategies-to-increase-the-likelihood-of-creating-and-sustaining-successful-research-teams/">here</a>.
 
-Al-Turk, Akram. 2016. “Place-Based Initiatives: A Report for the Kate B. Reynold Charitable Trust’s Healthy Places Initiative.” Duke University’s Division of Community Health. Available {{% staticref "files/Al-Turk, HPNC_report.pdf" %}}here{{% /staticref %}}.
+Al-Turk, Akram. 2016. “Place-Based Initiatives: A Report for the Kate B. Reynold Charitable Trust’s Healthy Places Initiative.” *Duke University’s Division of Community Health*. Available {{% staticref "files/Al-Turk, HPNC_report.pdf" %}}here{{% /staticref %}}.
 
-Al-Turk, Akram. 2014. “A Guide to the Tunisian Budget.” International Budget Partnership.
+Al-Turk, Akram. 2014. “A Guide to the Tunisian Budget.” *International Budget Partnership*.
 
 Al-Turk, Akram. 2014. “Training Tunisian Media to Report on the Budget.” International Budget Partnership Blog. Available <a href="https://www.internationalbudget.org/2014/01/training-tunisian-media-to-report-on-the-budget/">here</a>.
 
