@@ -15,7 +15,7 @@ weight = 90
 
 +++
 
-I have taught the following courses while at UNC. For short course descriptions, a list of other things I've taught, and more about my teaching, click [here]{{< ref "teaching/index.md" >}}.
+I have taught the following courses while at UNC. For short course descriptions, a list of other things I've taught, and more about my teaching, click [here]{{< ref "/teaching/index.md" >}}.
 
 ### Courses
 
