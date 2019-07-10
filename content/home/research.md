@@ -74,3 +74,14 @@ subtitle = ""
  css_class = ""
 +++
 
+### Manuscripts Under Review (Available Upon Request)
+
+- Al-Turk, Akram. “The Effects of Resource Dispersion and Policy Implementation on New Policy Adoption.”
+
+- Levy, Brian L. and Akram Al-Turk. “Stratification in the Storm: How Residential Segregation Produces Inequality in Outcomes of ‘Natural’ Disasters.”
+
+### Works in Progress (Available Upon Request)
+
+- Al-Turk, Akram. “The Role of the Federal Government and Academia in the Emergence of a New Policy Paradigm in Education.”
+
+- Al-Turk, Akram and David Rigby. “Framing Contests and Salience: The Emergence and Transformation of Policy Issues in the U.S. Congress, 1948-2015.”
