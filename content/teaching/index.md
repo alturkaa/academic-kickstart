@@ -17,7 +17,7 @@ weight = 60
 
 ### Courses
 
-I have taught the following courses while at UNC. 
+Short descriptions and syllabi of courses I've taught:
 
 - {{% staticref "files/teaching/soc_mngt_410_syllabus_v3.pdf" %}}MNGT/SOCI 410: Formal Organizations and Bureaucracy (spring 2019){{% /staticref %}}
 
