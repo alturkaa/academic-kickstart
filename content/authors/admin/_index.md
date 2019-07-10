@@ -18,7 +18,7 @@ organizations:
   url: "https://sociology.unc.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a doctoral candidate in the sociology department at UNC-Chapel Hill.
+# bio: I am a doctoral candidate in the sociology department at UNC-Chapel Hill.
 
 interests:
 # - Public Policy

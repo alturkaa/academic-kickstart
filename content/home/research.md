@@ -78,7 +78,9 @@ subtitle = ""
 
 - Al-Turk, Akram. “The Effects of Resource Dispersion and Policy Implementation on New Policy Adoption.”
 
-- Levy, Brian L. and Akram Al-Turk. “Stratification in the Storm: How Residential Segregation Produces Inequality in Outcomes of ‘Natural’ Disasters.”
+*Abstract*: How are resources mobilized to effect policy change? And how does the implementation of old policies shape the ways in which those resources are mobilized? Drawing on different theoretical traditions in sociology, political science, and organizational studies, I examine the case of affordable housing policy adoption in the most populous cities in the United States from 1996 to 2010 to address these questions. Using Cox regression and fixed-effects models, I find that the dispersion of financial resources among affordable housing organizations in a city, rather than organizational density, is positively associated with the likelihood of a local affordable housing ordinance being passed. I also find that the implementation of a past, federal housing policy has no effect on the likelihood of a new, local policy being adopted but does have a positive effect on the growth of the affordable housing nonprofit sector in a city. Taken together, these findings build on the policy feedback literature by suggesting that policy changes are often not simply a response to the way an old policy is implemented but are instead a response to the collective action that an old policy sets in motion. 
+
+Keywords: resource mobilization; policy implementation; policy feedback; nonprofit organizations; affordable housing
 
 ### Works in Progress (Available Upon Request)
 
