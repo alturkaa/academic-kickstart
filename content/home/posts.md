@@ -4,10 +4,10 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 92  # Order that this section will appear.
 
-title = "Recent Posts"
+title = "Data and Code"
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 2
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -65,3 +65,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+For different data and code (usually in Python or R) that I use or have used in my research, check out these [posts]({{< ref "/post/index.md" >}}). Feel free to contact me with questions, comments, or suggestions!
