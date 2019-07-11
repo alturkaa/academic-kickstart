@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website! Here you'll find more about the research I'm working on, courses I've taught, and a little about my work experience. Currently, I'm a doctoral candidate in the sociology department at UNC-Chapel Hill, with a general interest in the intersection of public policies and organizational and political change.
+Welcome to my website! Here you'll find more about the research I'm working on, courses I've taught, and a little about my work experience. Currently, I'm a doctoral candidate in the sociology [department](https://sociology.unc.edu/) at UNC-Chapel Hill, with a general interest in the intersection of public policies and organizational and political change.
 
 This site is still under construction!

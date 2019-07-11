@@ -7,8 +7,8 @@ active = true
 date = 2019-07-07T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Other Writing"
-subtitle = ""
+title = ""
+subtitle = "Other Writing"
 
 # Order that this section will appear in.
 weight = 85
