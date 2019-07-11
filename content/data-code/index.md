@@ -15,4 +15,4 @@ header:
 
 Below are posts about different data and code (usually in Python or R) that I use or have used in my research. Feel free to contact me with questions.
 
-[Analysis of Nonprofit Data with Python]{{< ref "/pandas-tutorial/index.md" >}}
+[Analysis of Nonprofit Data with Python]{{< ref "pandas-tutorial\index.md" >}}
