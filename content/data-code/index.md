@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Data and Code
 
 # View.
 #   1 = List
