@@ -1,5 +1,5 @@
 ---
-title: Basic Analysis of Nonprofit Data with Python
+title: Analysis of Nonprofit Data with Python
 summary: Using the pandas library in python
 date: "2019-07-10T00:00:00Z"
 
