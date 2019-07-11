@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 92  # Order that this section will appear.
 
-title = "Data and Code"
-subtitle = ""
+title = ""
+subtitle = "Data and Code"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -66,4 +66,4 @@ subtitle = ""
  css_class = ""
 +++
 
-For different data and code (usually in Python or R) that I use or have used in my research, check out these [posts]({{< ref "/post/index.md" >}}). Feel free to contact me with questions, comments, or suggestions!
+For different data and code (usually in Python or R) that I use or have used in my research, check out these ... Feel free to contact me with questions, comments, or suggestions!
