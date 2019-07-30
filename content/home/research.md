@@ -76,7 +76,7 @@ subtitle = "Research"
 
 ### Under Review (Available Upon Request)
 
-- Al-Turk, Akram. “The Effects of Resource Dispersion and Policy Implementation on New Policy Adoption.”
+- Al-Turk, Akram. “The Effects of Resource Dispersion and Policy Implementation on New Policy Adoption.” *Revise and Resubmit.*
 
 *Abstract*: How are resources mobilized to effect policy change? And how does the implementation of old policies shape the ways in which those resources are mobilized? Drawing on different theoretical traditions in sociology, political science, and organizational studies, I examine the case of affordable housing policy adoption in the most populous cities in the United States from 1996 to 2010 to address these questions. Using Cox regression and fixed-effects models, I find that the dispersion of financial resources among affordable housing organizations in a city, rather than organizational density, is positively associated with the likelihood of a local affordable housing ordinance being passed. I also find that the implementation of a past, federal housing policy has no effect on the likelihood of a new, local policy being adopted but does have a positive effect on the growth of the affordable housing nonprofit sector in a city. Taken together, these findings build on the policy feedback literature by suggesting that policy changes are often not simply a response to the way an old policy is implemented but are instead a response to the collective action that an old policy sets in motion. 
 
@@ -85,5 +85,7 @@ subtitle = "Research"
 ### Works in Progress (Available Upon Request)
 
 - Al-Turk, Akram. “The Role of the Federal Government and Academia in the Emergence of a New Policy Paradigm in Education.”
+
+In this part of my dissertation, I explain how a relatively coherent set of policy ideas, focused on high standards and accountability, emerged in education policy in the United States in the early 1980s. Drawing on government documents, data on changes in academia, and analysis of a large body of academic texts, I examine the ways that political institutions and academia affect the emergence of new policy ideas. Specifically, I find that the federal government was increasingly more likely to fund academics and research institutes to study the effectiveness of education policies and of how assessments and higher standards affect academic achievement. In conjunction, academia in the field of education was changing and the focus in the field was increasingly on curriculum and instruction and educational psychology, rather than the socioeconomic conditions that earlier studies had shown to affect academic achievement.
 
 - Al-Turk, Akram and David Rigby. “Framing Contests and Salience: The Emergence and Transformation of Policy Issues in the U.S. Congress, 1948-2015.”
