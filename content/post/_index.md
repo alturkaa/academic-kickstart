@@ -12,5 +12,3 @@ header:
   caption: ""
   image: ""
 ---
-
-A list of ...
