@@ -1,7 +1,7 @@
 ---
 title: Analysis of Nonprofit Data with Python
 summary: Using the pandas library in python
-date: "2015-06-24T00:00:00Z"
+# date: "2015-06-24T00:00:00Z"
 lastmod: 2015-06-24
 
 reading_time: false  # Show estimated reading time?
