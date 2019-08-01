@@ -11,7 +11,7 @@ title = ""
 subtitle = "Teaching"
 
 # Order that this section will appear in.
-weight = 75
+weight = 80
 
 +++
 
