@@ -7,7 +7,7 @@ reading_time: false  # Show estimated reading time?
 share: true  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
-draft: true
+draft: false
 
 # Optional header image (relative to `static/img/` folder).
 header:
