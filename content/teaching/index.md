@@ -29,7 +29,7 @@ In this course, we will focus on three main questions. First, what explains soci
 
 - {{% staticref "files/teaching/soc133_sp_2018.pdf" %}}SOCI 133: Sociology of Politics (fall 2017 and spring 2018){{% /staticref %}}
 
-	- [Class material](https://github.com/alturkaa/soc133) for data analysis
+	- Class [material](https://github.com/alturkaa/soc133) for data analysis
 
 Why do individuals participate in politics (e.g., vote) or become engaged in their communities (e.g., join a voluntary association, protest, etc.)? What role do social networks play in political and civic engagement? What accounts for the increasing political partisanship in the United States? And how do the shifts in political participation, civic engagement, and partisanship all have an effect on, or are shaped by, policymaking?
 
