@@ -4,7 +4,7 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 92  # Order that this section will appear.
 
 title = ""
@@ -65,5 +65,3 @@ subtitle = "Data and Code"
  # CSS class.
  css_class = ""
 +++
-
-For different data and code (usually in Python or R) that I use or have used in my research, check out these ... Feel free to contact me with questions, comments, or suggestions!
