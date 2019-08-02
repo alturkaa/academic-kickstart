@@ -1,5 +1,5 @@
 ---
-title: Nonprofits in the U.S. from 1989
+title: Nonprofits in the U.S. since 1989
 summary: Using Python to Get Nonprofit Data from NCCS
 # date: "2015-06-24T00:00:00Z"
 # lastmod: "2015-06-24T00:00:00Z"
