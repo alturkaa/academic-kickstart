@@ -21,7 +21,7 @@ I have taught the following courses while at UNC. For short course descriptions,
 
 - {{% staticref "files/teaching/soc_mngt_410_syllabus_v3.pdf" %}}MNGT/SOCI 410: Formal Organizations and Bureaucracy (spring 2019){{% /staticref %}}
 
-	Semester-long project: Assignment guidelines for {{% staticref "files/teaching/research_question_guidelines.pdf" %}}research question{{% /staticref %}}, analyses, and final paper.
+	Assignment guidelines for semester-long project: {{% staticref "files/teaching/research_question_guidelines.pdf" %}}research question{{% /staticref %}}, {{% staticref "files/teaching/analyses_guidelines.pdf" %}}analyses{{% /staticref %}}, and {{% staticref "files/teaching/final_paper_guidelines.pdf" %}}final paper{{% /staticref %}}.
 
 - {{% staticref "files/teaching/soc273_fa_2018.pdf" %}}SOCI 273: Social and Economic Justice (fall 2018){{% /staticref %}}
 
