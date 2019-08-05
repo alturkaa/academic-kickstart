@@ -21,6 +21,8 @@ Short descriptions and syllabi of courses I've taught:
 
 - {{% staticref "files/teaching/soc_mngt_410_syllabus_v3.pdf" %}}MNGT/SOCI 410: Formal Organizations and Bureaucracy (spring 2019){{% /staticref %}}
 
+	Semester-long project: Assignment guidelines for {{% staticref "files/teaching/research_question_guidelines.pdf" %}}research question{{% /staticref %}}, analyses, and final paper.
+
 	Organizations are everywhere. Nearly all of us spend a considerable amount of time as part of an organization. Organizations provide most of our goods and services, influence our beliefs and values, and shape and are shaped by larger institutions in society. In this course, we will explore the interactions that go on inside organizations, and more importantly, how organizations interact with each other and with their environments.
 
 - {{% staticref "files/teaching/soc273_fa_2018.pdf" %}}SOCI 273: Social and Economic Justice (fall 2018){{% /staticref %}}
