@@ -1,6 +1,6 @@
 ---
 title: Academic Articles on Education
-summary: Parsing XML Files to Create a Dataset of ERIC Articles
+summary: Parsing XML Files to Create a Dataset of Articles from the Education Resources Information Center (ERIC)
 # date: "2015-06-24T00:00:00Z"
 # lastmod: "2015-06-24T00:00:00Z"
 
