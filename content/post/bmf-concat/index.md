@@ -16,7 +16,7 @@ header:
   image: ""
 ---
 
-The Python code below lets you compile a large dataset of all nonprofits in the U.S. since 1989. The data are based on IRS filings and have information such as founding date, yearly revenue and expenditures, location, etc. To compile the dataset, you first need to download each of the yearly data files from the [National Center For Charitable Statistics](https://nccs-data.urban.org/index.php).
+In one of my papers, I examine how the organizational resources of a nonprofit sector in a city shape the likelihood of a local ordinance being passed. The Python code below lets you compile a large dataset of all nonprofits in the U.S. since 1989. The data are based on IRS filings and have information such as founding date, yearly revenue and expenditures, location, etc. To compile the dataset, you first need to download each of the yearly data files from the [National Center For Charitable Statistics](https://nccs-data.urban.org/index.php).
 
 
 ```python
