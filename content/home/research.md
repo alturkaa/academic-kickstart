@@ -82,10 +82,16 @@ subtitle = "Research"
 
 	*Keywords*: resource mobilization; policy implementation; policy feedback; nonprofit organizations; affordable housing
 
-### Works in Progress (Available Upon Request)
+### Works in Progress (Articles Available Upon Request)
 
 - Al-Turk, Akram. “The Role of the Federal Government and Academia in the Emergence of a New Policy Paradigm in Education.”
 
 	In this part of my dissertation, I explain how a relatively coherent set of policy ideas, focused on high standards and accountability, emerged in education policy in the United States in the early 1980s. Drawing on government documents, data on changes in academia, and a large body of [academic articles](https://alturk.netlify.com/post/eric-parser/), I examine the ways that political institutions and academia affect the emergence of new policy ideas. Specifically, I find that the federal government was increasingly more likely to fund academics and research institutes to study the effectiveness of education policies and of how assessments and higher standards affect academic achievement. In conjunction, academia in the field of education was changing and the focus in the field was increasingly on curriculum and instruction and educational psychology, rather than the socioeconomic conditions that earlier studies had shown to affect academic achievement.
 
 - Al-Turk, Akram and David Rigby. “Framing Contests and Salience: The Emergence and Transformation of Policy Issues in the U.S. Congress, 1948-2015.”
+
+- Al-Turk, Akram. “Assessing the Effects of Policy and Temporally Proximate Threats on Mobilization: The Case of Nonviolent Resistance in the Palestinian Territories, 2003-Present.”
+
+- Andrews, Kenneth T. and Akram Al-Turk. *Civil Rights and the Black Freedom Struggle* (under contract, Polity Press).
+
+- Levy, Brian L. and Akram Al-Turk. “Stratification in the Storm: How Residential Segregation Produces Inequality in Outcomes of ‘Natural’ Disasters.”
