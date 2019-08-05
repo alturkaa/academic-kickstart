@@ -15,7 +15,7 @@ subtitle = "Data and Code"
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 2
+  count = 4
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -65,3 +65,5 @@ subtitle = "Data and Code"
  # CSS class.
  css_class = ""
 +++
+
+Below is some code (usually in Python or R) that I've used to collect or analyze data for research projects I've worked on or am currently working on. My goal is to add more in the coming months. Email me if you have questions or suggestions!
