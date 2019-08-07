@@ -1,7 +1,7 @@
 ---
 title: Topic Modeling Academic Articles on K-12 Student Achievement
 summary: Using Structural Topic Modeling in R
-# date: "2015-06-24T00:00:00Z"
+date: 2019-08-01
 # lastmod: "2015-06-24T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
