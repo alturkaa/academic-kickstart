@@ -160,7 +160,7 @@ From the above plots, it looks like 12 is a good number of topics, but let's com
 ```
 k_result %>%
   select(K, exclusivity, semantic_coherence) %>%
-  filter(K %in% c(8, 10, 12)) %>%
+  filter(K %in% c(10, 12, 14)) %>%
   unnest() %>%
   mutate(K = as.factor(K)) %>%
   ggplot(aes(semantic_coherence, exclusivity, color = K)) +
@@ -176,11 +176,11 @@ k_result %>%
 
 From this plot, it looks like k=12 does a good job of balancing semantic coherence and exclusivity.
 
-#### Print out most common words and most frequent words for our BEST model (k=12).
+#### Print out most common words and most frequent words for our BEST model (K=12).
 
 
 ```
-# Use 3 in double brackets because k=12 is the third model in many_models
+# Use 3 in double brackets because K=12 is the third model in many_models
 map(many_models$topic_model, labelTopics)[[3]]
 ```
 
@@ -438,4 +438,4 @@ plot(reg_prep12, covariate = 'fed_gov_v2', topics = 1:12,
 - McFarland, Daniel A., Daniel Ramage, Jason Chuang, Jeffrey Heer, Christopher D. Manning, and Daniel Jurafsky. 2013. “Differentiating Language Usage through Topic Models.” *Poetics* 41(6):607–25.  
 - Mimno, David, Hanna Wallach, Edmund Talley, Miriam Leenders, and Andrew McCallum. 2011. “Optimizing Semantic Coherence in Topic Models.” *Proceedings of the 2011 Conference on Empirical Methods in Natural Language Processing*. 262–72.  
 - Mohr, John W. and Petko Bogdanov. 2013. “Introduction—Topic Models: What They Are and Why They Matter.” *Poetics* 41(6):545–69.  
-- Schoﬁeld, Alexandra, M°ans Magnusson, Laure Thompson, and David Mimno. n.d. “Understanding Text Pre-Processing for Latent Dirichlet Allocation.”
+- Schoﬁeld, Alexandra, Mans Magnusson, Laure Thompson, and David Mimno. n.d. “Understanding Text Pre-Processing for Latent Dirichlet Allocation.”
