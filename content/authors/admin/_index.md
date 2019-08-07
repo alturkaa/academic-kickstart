@@ -21,8 +21,10 @@ organizations:
 # bio: I am a doctoral candidate in the sociology department at UNC-Chapel Hill.
 
 interests:
-# - Public Policy
-# - Organizations
+- Public Policy
+- Political Sociology
+- Organizations
+- Computational Social Science
 
 education:
   courses:
