@@ -14,3 +14,9 @@
 
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+  
+[[redirects]]
+  from = "https://alturk.netlify.com/*"
+  to = "https://akramalturk.org/:splat"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
