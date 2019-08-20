@@ -75,4 +75,8 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website! Here you'll find more about the research I'm working on, courses I've taught, and a little about my work experience. Currently, I'm a doctoral candidate in the [Sociology Department](https://sociology.unc.edu/) at UNC-Chapel Hill. My research addresses three related questions: how do policy ideas emerge and shape political outcomes, how do major policies shape collective action, and how do collective actors effect political and socioeconomic change. I am also a member of the [Durham Planning Commission](https://durhamnc.gov/1367/Planning-Commission). Before getting my PhD, I worked at the International Budget Partnership (in the Center on Budget and Policy Priorities) and the Brookings Institution.
+Welcome to my website! Here you'll find more about the research I'm working on, courses I've taught, and a little about my work experience. Currently, I'm a doctoral candidate in the [Sociology Department](https://sociology.unc.edu/) at UNC-Chapel Hill. 
+
+My research addresses three related questions: how do policy ideas emerge and shape political outcomes, how do major policies shape collective action, and how do collective actors effect political and socioeconomic change. 
+
+I am also a member of the [Durham Planning Commission](https://durhamnc.gov/1367/Planning-Commission). Before getting my PhD, I worked at the International Budget Partnership (in the Center on Budget and Policy Priorities) and the Brookings Institution.
