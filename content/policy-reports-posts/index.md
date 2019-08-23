@@ -29,4 +29,6 @@ Al-Turk, Akram. 2012. “Lessons from Democracy’s Third Wave.” *Kalimat Maga
 
 Al-Turk, Akram. 2011. “Libya: From Revolt to State-Building,” in *The Arab Awakening: America and the Transformation of the Middle East*. Washington, DC: Brookings Institution Press. Book available <a href="https://www.brookings.edu/book/the-arab-awakening/">here</a>.
 
-Lyndon B. Johnson School of Public Affairs. 2008. “A Study of Global Transportation Activities: Assessing Fuel Economy, Emission Standards, and Related Climate-Change Public Policies.” Policy Research Project Report Series. Austin, TX: University of Texas at Austin.
+Al-Turk, Akram. 2009. "Internal Displacement in Iraq: History, Implications, and Future Prospects." Master's Professional Report. LBJ School of Public Affairs.
+
+LBJ School of Public Affairs. 2008. “A Study of Global Transportation Activities: Assessing Fuel Economy, Emission Standards, and Related Climate-Change Public Policies.” Policy Research Project Report Series. Austin, TX: University of Texas at Austin.

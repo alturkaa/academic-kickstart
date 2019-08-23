@@ -34,7 +34,7 @@ education:
   - course: Master's, Sociology
     institution: University of North Carolina at Chapel Hill
     year: 2016
-  - course: Master's, Public Policy
+  - course: Master's, Global Policy
     institution: University of Texas at Austin
     year: 2009
   - course: Bachelor's, Chemistry
