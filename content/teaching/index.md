@@ -44,3 +44,5 @@ Short descriptions and syllabi of courses I've taught:
 - "Advocating for Political and Social Change." Buckley Public Service Scholars Workshop, UNC-Chapel Hill (fall 2014, spring 2015)
 
 - "Introduction to the Budget and Policy Process." Workshops co-facilitated with Egyptian and Tunisian NGOs and the Office of the UN High Commissioner for Human Rights (2012-2014) 
+
+	Sample workshop {{% staticref "files/IBP-OHCHR Training_manual.pdf" %}}material{{% /staticref %}}

@@ -19,7 +19,7 @@ Aldrich, Howard E. and Akram Al-Turk. 2017. “Four strategies to increase the l
 
 Al-Turk, Akram. 2016. “Place-Based Initiatives: A Report for the Kate B. Reynold Charitable Trust’s Healthy Places Initiative.” *Duke University’s Division of Community Health*. Available {{% staticref "files/Al-Turk, HPNC_report.pdf" %}}here{{% /staticref %}}.
 
-Al-Turk, Akram. 2014. “A Guide to the Tunisian Budget.” *International Budget Partnership*.
+Al-Turk, Akram. 2014. “A Guide to the Tunisian Budget.” *International Budget Partnership*. Available {{% staticref "files/Tunisian_budget_guide_IBP.pdf" %}}here{{% /staticref %}}.
 
 Al-Turk, Akram. 2014. “Training Tunisian Media to Report on the Budget.” International Budget Partnership Blog. Available <a href="https://www.internationalbudget.org/2014/01/training-tunisian-media-to-report-on-the-budget/">here</a>.
 
@@ -29,6 +29,6 @@ Al-Turk, Akram. 2012. “Lessons from Democracy’s Third Wave.” *Kalimat Maga
 
 Al-Turk, Akram. 2011. “Libya: From Revolt to State-Building,” in *The Arab Awakening: America and the Transformation of the Middle East*. Washington, DC: Brookings Institution Press. Book available <a href="https://www.brookings.edu/book/the-arab-awakening/">here</a>.
 
-Al-Turk, Akram. 2009. "Internal Displacement in Iraq: History, Implications, and Future Prospects." Master's Professional Report. LBJ School of Public Affairs.
+Al-Turk, Akram. 2009. "Internal Displacement in Iraq: History, Implications, and Future Prospects." Master's Professional Report. LBJ School of Public Affairs. Available {{% staticref "files/prof_report_utexas_2009.pdf" %}}here{{% /staticref %}}.
 
 LBJ School of Public Affairs. 2008. “A Study of Global Transportation Activities: Assessing Fuel Economy, Emission Standards, and Related Climate-Change Public Policies.” Policy Research Project Report Series. Austin, TX: University of Texas at Austin.
