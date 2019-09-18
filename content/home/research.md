@@ -82,13 +82,13 @@ subtitle = "Research"
 
 	*Keywords*: resource mobilization; policy implementation; policy feedback; nonprofit organizations; affordable housing
 
-### Works in Progress (Articles Available Upon Request)
-
-- Al-Turk, Akram. “The Supply and Demand of New Ideas: How the Federal Government and Academics Shaped Education Policy in the U.S.”
+- Al-Turk, Akram. “The Supply and Demand of New Ideas: How the Federal Government and Academics Shaped Education Policy in the U.S., 1965-1983.”
 
 	*Abstract*: How does a new policy paradigm -- a coherent set of problem definitions and policy prescriptions -- emerge? A new paradigm in education policy in the U.S. emerged in the 1980s that shifted the focus from inequitable access to education toward the need for effective schools and high standards. I draw on government documents, data on changes in academia, and [text analysis](https://akramalturk.org/post/eric-topic-models/) of [academic research](https://akramalturk.org/post/eric-parser/) to advance an argument about how policies, government agencies, and academics drive the demand for and supply of new ideas that shape new paradigms. I find that the demand for new ideas was driven by the government’s funding of policy-focused and program evaluation studies. In conjunction, many academics in education were dissatisfied with the findings and methods in the field, shifting the focus of how to improve student achievement from socioeconomic conditions to school efficiency. The supply of new ideas was driven by education agencies’ increasing funding of studies of assessment and classroom instruction and by an increasing focus, in academia, on school curriculum and educational psychology. While scholarship on policy paradigms often focuses on interest groups, political elites, and public opinion, my findings contribute to an understanding of how political institutions and knowledge regimes shape those paradigms. 
 	
 	*Keywords*: policy paradigms; policy feedback; scientific-intellectual movements; education policy; text analysis
+
+### Works in Progress (Articles Available Upon Request)
 
 - Al-Turk, Akram and David Rigby. “Framing Contests and Salience: The Emergence and Transformation of Policy Issues in the U.S. Congress, 1948-2015.”
 
