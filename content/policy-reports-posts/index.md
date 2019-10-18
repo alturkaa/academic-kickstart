@@ -15,6 +15,8 @@ weight = 60
 
 +++
 
+Durham Planning Commission Expanding Housing Choices Subcommittee. 2019. "Comments on Case TC1800007 -- Expanding Housing Choices." Available <a href="https://durhamnc.gov/DocumentCenter/View/26723/EHC-DURHAM-PLANNING-COMMISSION-SUBCOMMITTEE-Joint-Comments-June-2019-final">here</a>.
+
 Aldrich, Howard E. and Akram Al-Turk. 2017. “Four strategies to increase the likelihood of creating and sustaining successful research teams.” *LSE Impact Blog*. Available <a href="http://blogs.lse.ac.uk/impactofsocialsciences/2017/10/04/four-strategies-to-increase-the-likelihood-of-creating-and-sustaining-successful-research-teams/">here</a>.
 
 Al-Turk, Akram. 2016. “Place-Based Initiatives: A Report for the Kate B. Reynold Charitable Trust’s Healthy Places Initiative.” *Duke University’s Division of Community Health*. Available {{% staticref "files/Al-Turk, HPNC_report.pdf" %}}here{{% /staticref %}}.
