@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 75  # Order that this section will appear.
 
 title = ""
 subtitle = "Research"
@@ -88,16 +88,19 @@ subtitle = "Research"
 	
 	*Keywords*: policy paradigms; policy feedback; scientific-intellectual movements; education policy; text analysis
 
-### Works in Progress (Articles Available Upon Request)
+### Works in Progress (Available Upon Request)
 
 - Al-Turk, Akram and David Rigby. “Framing Contests and Salience: The Emergence and Transformation of Policy Issues in the U.S. Congress, 1948-2015.”
 
+- Levy, Brian L. and Akram Al-Turk. “Stratification in the Storm: How Residential Segregation Produces Inequality in Outcomes of ‘Natural’ Disasters.”
+
+	*Abstract*: We use block group level administrative data on Hurricanes Katrina and Sandy to analyze race, class, and gender inequalities in hurricane damage. Disasters provide a new realm to join the residential segregation and environmental justice literatures. The former highlights demographic inequalities in spatial sorting and housing attainment, whereas the latter emphasizes concentration of toxins and noxious facilities in locations occupied by vulnerable populations. An emergent literature explores environmental injustice in the context of disasters, but this research is hampered by the inability to make causal conclusions of injustice. We estimate fractional heteroscedastic logit models of the relationship between neighborhood composition and hurricane impacts that provide a firmer basis for conclusions of environmental injustice than previous research. We then exploit the random path taken by the hurricanes to design a quasi-experimental test of our initial findings. One disaster exhibits a strong interactive effect between race and class with traditionally-disadvantaged populations segregated into neighborhoods at greater risk of devastation. The other disaster displays a more complicated pattern. These findings indicate that along with overall inequalities faced by disadvantaged groups, there exists important heterogenetiy across settings.
+	
+	*Keywords*: neighborhoods; residential segregation; place stratification; environmental injustice; disasters
+	
 - Al-Turk, Akram. “Assessing the Effects of Policy and Temporally Proximate Threats on Mobilization: The Case of Nonviolent Resistance in the Palestinian Territories, 2003-Present.”
 
 	*Abstract*: When and how do different types of threats lead to mobilization? While social movement scholars have examined how the costs of action influence collective action -- largely by focusing on the effects of state repression -- less attention has been paid to the costs of inaction. A few scholars, however, have argued that two dimensions of threat due to inaction may lead to mobilization. The first is a policy threat -- a state action that affects a broad swath of the population and that may potentially serve as a focal target for collective action. The second is a physical, temporally proximate threat to a group that is potentially existential. A fuller understanding of how the costs of inaction affect mobilization requires examining the interplay between these two dimensions -- broad policy threats and oftentimes localized, temporally proximate threats. Using a dataset I have compiled on nonviolent resistance in the occupied Palestinian territories since 2003, I argue that while local, proximate threats (e.g., home demolitions, the construction of the separation barrier) may have spurred this latest wave of Palestinian resistance, policy threats (e.g., announcements of settlement expansions, the breakdown of peace negotiations) both expand the scope of the movement and sustain it. 
 	
 	*Keywords*: social movements; policy threats; nonviolent resistance
 
-- Andrews, Kenneth T. and Akram Al-Turk. *Civil Rights and the Black Freedom Struggle* (under contract, Polity Press).
-
-- Levy, Brian L. and Akram Al-Turk. “Stratification in the Storm: How Residential Segregation Produces Inequality in Outcomes of ‘Natural’ Disasters.”

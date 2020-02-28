@@ -19,7 +19,7 @@ Durham Planning Commission Expanding Housing Choices Subcommittee. 2019. "Commen
 
 Aldrich, Howard E. and Akram Al-Turk. 2017. “Four strategies to increase the likelihood of creating and sustaining successful research teams.” *LSE Impact Blog*. Available <a href="http://blogs.lse.ac.uk/impactofsocialsciences/2017/10/04/four-strategies-to-increase-the-likelihood-of-creating-and-sustaining-successful-research-teams/">here</a>.
 
-Al-Turk, Akram. 2016. “Place-Based Initiatives: A Report for the Kate B. Reynold Charitable Trust’s Healthy Places Initiative.” *Duke University’s Division of Community Health*. Available {{% staticref "files/Al-Turk, HPNC_report.pdf" %}}here{{% /staticref %}}.
+Al-Turk, Akram. 2016. “Place-Based Initiatives: A Report for the Kate B. Reynolds Charitable Trust’s Healthy Places Initiative.” *Duke University’s Division of Community Health*. Available {{% staticref "files/Al-Turk, HPNC_report.pdf" %}}here{{% /staticref %}}.
 
 Al-Turk, Akram. 2014. “A Guide to the Tunisian Budget.” *International Budget Partnership*. Available {{% staticref "files/Tunisian_budget_guide_IBP.pdf" %}}here{{% /staticref %}}.
 
