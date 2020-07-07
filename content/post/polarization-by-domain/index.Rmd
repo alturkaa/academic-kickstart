@@ -2,6 +2,7 @@
 title: Political Polarization by Policy Domain
 summary: Using Congressional Roll Call Votes to Measure Polarization by Policy Domain
 date: '2020-07-07'
+output: github_document
 reading_time: false  # Show estimated reading time?
 share: true  # Show social sharing links?
 profile: false  # Show author profile?
@@ -82,7 +83,7 @@ house_roll_by_year = merged_house_roll.groupby(['year', 'pap_majortopic']).agg({
 # 
 # print (house_roll_by_year.columns)
 
-merged_house_roll.groupby('pap_majortopic')['house_partisan'].mean().reset_index().sort_values(by='house_partisan', ascending=False).head()
+print (merged_house_roll.groupby('pap_majortopic')['house_partisan'].mean().reset_index().sort_values(by='house_partisan', ascending=False).head())
 
 # 
 # 
