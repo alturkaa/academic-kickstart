@@ -2,7 +2,7 @@
 title: Political Polarization by Policy Domain
 summary: Using Congressional Roll Call Votes to Measure Polarization by Policy Domain
 date: "7/7/2020"
-output: github_document
+output: html_document
 reading_time: false  # Show estimated reading time?
 share: true  # Show social sharing links?
 profile: false  # Show author profile?

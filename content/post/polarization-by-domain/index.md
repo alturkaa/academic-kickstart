@@ -1,8 +1,7 @@
 ---
 title: Polarization
 summary: Using
-# date: "2015-06-24T00:00:00Z"
-lastmod: "2015-06-24T00:00:00Z"
+publishdate: 2020-07-07
 
 reading_time: false  # Show estimated reading time?
 share: true  # Show social sharing links?
