@@ -20,15 +20,31 @@ Because I am interested in the growth of interest groups that focus on a particu
 
 
 ```python
-import altair as alt
-```
-
-
-```python
 # import libraries
 import pandas as pd
 import numpy as np
+import altair as alt
+import portpicker
+from altair_saver import save
+```
 
+
+    ---------------------------------------------------------------------------
+
+    ModuleNotFoundError                       Traceback (most recent call last)
+
+    <ipython-input-101-8fb8866c36b2> in <module>
+          3 import numpy as np
+          4 import altair as alt
+    ----> 5 import portpicker
+          6 from altair_saver import save
+    
+
+    ModuleNotFoundError: No module named 'portpicker'
+
+
+
+```python
 ### import data
 # import Comparative Agendas Project Roll Call Data
 pap_roll = pd.read_csv('../../../../Research/Dissertation/Data/Policy Agendas Project/US-Legislative-roll_call_votes_18.2.csv', low_memory=False)
@@ -223,7 +239,7 @@ congress_roll_by_year['Polarization'] = (congress_roll_by_year['house_partisan']
 
 
 ```python
-alt.Chart(congress_roll_by_year).mark_line().encode(
+by_topic = alt.Chart(congress_roll_by_year).mark_line().encode(
     x='Year:O',
     y='Polarization:Q',
     color=alt.Color('MajorTopic:N', legend=None),
@@ -238,15 +254,20 @@ alt.Chart(congress_roll_by_year).mark_line().encode(
 ```
 
 
+```python
+by_topic
+```
 
 
 
-<div id="altair-viz-75e63f0f289f437ea77038a07e928a92"></div>
+
+
+<div id="altair-viz-83886689efa641b9b8125984acd4fd6c"></div>
 <script type="text/javascript">
   (function(spec, embedOpt){
     let outputDiv = document.currentScript.previousElementSibling;
-    if (outputDiv.id !== "altair-viz-75e63f0f289f437ea77038a07e928a92") {
-      outputDiv = document.getElementById("altair-viz-75e63f0f289f437ea77038a07e928a92");
+    if (outputDiv.id !== "altair-viz-83886689efa641b9b8125984acd4fd6c") {
+      outputDiv = document.getElementById("altair-viz-83886689efa641b9b8125984acd4fd6c");
     }
     const paths = {
       "vega": "https://cdn.jsdelivr.net/npm//vega@5?noext",
@@ -292,6 +313,11 @@ alt.Chart(congress_roll_by_year).mark_line().encode(
 </script>
 
 
+
+
+```python
+by_topic.save('chart.html')
+```
 
 
 ```python
