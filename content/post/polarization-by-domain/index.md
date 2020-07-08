@@ -8,11 +8,6 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 draft: false
 markup: mmark
-
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
 ---
 In one paper from my dissertation, I assess the effects of political polarization on the growth of interest groups in the U.S. since the 1970s. The most common measure of polarization is [DW-NOMINATE](https://voteview.com/about) which, based on roll call votes, is a measure of the ideological positions of Senators and Representatives in the House. 
 
@@ -23,9 +18,6 @@ Because I am interested in the growth of interest groups that focus on a particu
 # import libraries
 import pandas as pd
 import numpy as np
-import altair as alt
-from altair_saver import save
-import altair_viewer
 import seaborn as sns
 import matplotlib.pyplot as plt
 ```
@@ -97,9 +89,9 @@ merged_senate_roll = merged_senate_roll[(merged_senate_roll['MajorTopic'] > 0) &
 
 
 ```python
-# rename Major Topics codes
+# rename Policy Domains codes
 di = {1 : 'Macroeconomics', 
-      2 : 'Civil Rights, Minority Issues, & Civil Lib.',
+      2 : 'Civ. Rights, Minority Issues, & Civ. Lib.',
       3 : 'Health',
       4 : 'Agriculture',
       5 : 'Labor, Employment, and Immig.',
@@ -111,13 +103,13 @@ di = {1 : 'Macroeconomics',
       12 : 'Law, Crime, and Family',
       13 : 'Social Welfare',
       14 : 'Community Dev. and Housing',
-      15 : 'Banking, Finance, & Domestic Comm.',
+      15 : 'Banking, Finance, & Dom. Comm.',
       16 : 'Defense',
       17 : 'Space, Science, Tech., and Comms.',
       18 : 'Foreign Trade',
-      19 : 'International Affairs and Foreign Aid',
+      19 : 'Int\'l Affairs and Foreign Aid',
       20 : 'Government Operations',
-      21 : 'Public Lands and Water Management'}
+      21 : 'Public Lands and Water Mgmt'}
 
 merged_house_roll = merged_house_roll.replace({'MajorTopic' : di})
 merged_senate_roll = merged_senate_roll.replace({'MajorTopic' : di})
@@ -184,7 +176,7 @@ merged_house_roll.groupby('MajorTopic')['house_partisan'].mean().reset_index().s
     </tr>
     <tr>
       <th>2</th>
-      <td>Civil Rights, Minority Issues, &amp; Civil Lib.</td>
+      <td>Civ. Rights, Minority Issues, &amp; Civ. Lib.</td>
       <td>0.447487</td>
     </tr>
     <tr>
@@ -194,7 +186,7 @@ merged_house_roll.groupby('MajorTopic')['house_partisan'].mean().reset_index().s
     </tr>
     <tr>
       <th>1</th>
-      <td>Banking, Finance, &amp; Domestic Comm.</td>
+      <td>Banking, Finance, &amp; Dom. Comm.</td>
       <td>0.423594</td>
     </tr>
     <tr>
@@ -234,14 +226,11 @@ congress_roll_by_year = pd.merge(house_roll_by_year, senate_roll_by_year, on=['Y
 congress_roll_by_year['total_bills'] = congress_roll_by_year['num_house_bills'] + congress_roll_by_year['num_senate_bills']
 ```
 
-
-```python
-# Get average of House and Senate polarization by policy area-year
-congress_roll_by_year['Polarization'] = (congress_roll_by_year['house_partisan'] + congress_roll_by_year['senate_partisan']) / 2
-```
+#### Calculate Weighted Polarization Measure
 
 
 ```python
+# Get weighted average of House and Senate polarization by policy area-year
 congress_roll_by_year['Weighted Polarization'] = ((congress_roll_by_year['house_partisan'] * congress_roll_by_year['num_house_bills']) \
                                                   + (congress_roll_by_year['senate_partisan'] * congress_roll_by_year['num_senate_bills'])) \
 / congress_roll_by_year['total_bills']
@@ -249,6 +238,7 @@ congress_roll_by_year['Weighted Polarization'] = ((congress_roll_by_year['house_
 
 
 ```python
+# summary stats for total bills column
 congress_roll_by_year['total_bills'].describe()
 ```
 
@@ -267,8 +257,11 @@ congress_roll_by_year['total_bills'].describe()
 
 
 
+### Ten Most Polarized Policy Area-Years
+
 
 ```python
+# sort by weighted polarization measure for policy area-years with at least 20 total bills
 congress_roll_by_year[congress_roll_by_year['total_bills'] > 20].sort_values(by='Weighted Polarization', ascending=False).head(10)
 ```
 
@@ -300,7 +293,6 @@ congress_roll_by_year[congress_roll_by_year['total_bills'] > 20].sort_values(by=
       <th>senate_partisan</th>
       <th>num_senate_bills</th>
       <th>total_bills</th>
-      <th>Polarization</th>
       <th>Weighted Polarization</th>
     </tr>
   </thead>
@@ -314,7 +306,6 @@ congress_roll_by_year[congress_roll_by_year['total_bills'] > 20].sort_values(by=
       <td>0.841347</td>
       <td>35.0</td>
       <td>63.0</td>
-      <td>0.816654</td>
       <td>0.819397</td>
     </tr>
     <tr>
@@ -326,7 +317,6 @@ congress_roll_by_year[congress_roll_by_year['total_bills'] > 20].sort_values(by=
       <td>0.644231</td>
       <td>2.0</td>
       <td>85.0</td>
-      <td>0.705791</td>
       <td>0.764453</td>
     </tr>
     <tr>
@@ -338,7 +328,6 @@ congress_roll_by_year[congress_roll_by_year['total_bills'] > 20].sort_values(by=
       <td>0.689239</td>
       <td>7.0</td>
       <td>36.0</td>
-      <td>0.735312</td>
       <td>0.763468</td>
     </tr>
     <tr>
@@ -350,7 +339,6 @@ congress_roll_by_year[congress_roll_by_year['total_bills'] > 20].sort_values(by=
       <td>0.806076</td>
       <td>27.0</td>
       <td>48.0</td>
-      <td>0.750666</td>
       <td>0.757592</td>
     </tr>
     <tr>
@@ -362,7 +350,6 @@ congress_roll_by_year[congress_roll_by_year['total_bills'] > 20].sort_values(by=
       <td>0.859363</td>
       <td>11.0</td>
       <td>31.0</td>
-      <td>0.779806</td>
       <td>0.756708</td>
     </tr>
     <tr>
@@ -374,7 +361,6 @@ congress_roll_by_year[congress_roll_by_year['total_bills'] > 20].sort_values(by=
       <td>0.661634</td>
       <td>4.0</td>
       <td>60.0</td>
-      <td>0.711008</td>
       <td>0.753799</td>
     </tr>
     <tr>
@@ -386,7 +372,6 @@ congress_roll_by_year[congress_roll_by_year['total_bills'] > 20].sort_values(by=
       <td>0.811563</td>
       <td>40.0</td>
       <td>87.0</td>
-      <td>0.752159</td>
       <td>0.747379</td>
     </tr>
     <tr>
@@ -398,7 +383,6 @@ congress_roll_by_year[congress_roll_by_year['total_bills'] > 20].sort_values(by=
       <td>0.754693</td>
       <td>12.0</td>
       <td>37.0</td>
-      <td>0.738374</td>
       <td>0.732640</td>
     </tr>
     <tr>
@@ -410,7 +394,6 @@ congress_roll_by_year[congress_roll_by_year['total_bills'] > 20].sort_values(by=
       <td>0.697245</td>
       <td>67.0</td>
       <td>141.0</td>
-      <td>0.725982</td>
       <td>0.727409</td>
     </tr>
     <tr>
@@ -422,7 +405,6 @@ congress_roll_by_year[congress_roll_by_year['total_bills'] > 20].sort_values(by=
       <td>0.718141</td>
       <td>10.0</td>
       <td>89.0</td>
-      <td>0.722725</td>
       <td>0.726279</td>
     </tr>
   </tbody>
@@ -431,21 +413,7 @@ congress_roll_by_year[congress_roll_by_year['total_bills'] > 20].sort_values(by=
 
 
 
-
-```python
-# by_topic = alt.Chart(congress_roll_by_year).mark_line().encode(
-#     x='Year:O',
-#     y='Weighted Polarization:Q',
-#     color=alt.Color('MajorTopic:N', legend=None),
-#     strokeDash='MajorTopic:N',
-# ).properties(
-#     width=180,
-#     height=180
-# ).facet(
-#     facet='MajorTopic:N',
-#     columns=4
-# )
-```
+### Polarization by Policy Area by Year
 
 
 ```python
@@ -454,5 +422,10 @@ topic_plot = topic_plot.map(plt.plot, "Year", "Weighted Polarization")
 ```
 
 
-![png](./index_21_0.png)
+![png](./index_22_0.png)
 
+
+
+```python
+
+```
