@@ -8,9 +8,6 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 draft: false
 markup: mmark
-header:
-  caption: ""
-  image: "polarization_picture.png"
 ---
 In one paper from my dissertation, I assess the effects of political polarization on the growth of interest groups in the U.S. since the 1970s. The most common measure of polarization is [DW-NOMINATE](https://voteview.com/about) which, based on roll call votes, is a measure of the ideological positions of Senators and Representatives in the House. 
 
