@@ -23,7 +23,8 @@ organizations:
 interests:
 - Public Policy
 - Community Development
-- Organizations
+- Affordable Housing and Homelessness
+- Nonprofit Organizations
 - Computational Social Science
 
 education:
@@ -75,6 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website! Here you'll find more about the research I'm working on, courses I've taught, and a little about my work experience. Currently, I'm a doctoral candidate in the [Sociology Department](https://sociology.unc.edu/) at UNC-Chapel Hill. 
-
-I am also a member of the [Durham Planning Commission](https://durhamnc.gov/1367/Planning-Commission). Before getting my PhD, I worked at the International Budget Partnership (in the Center on Budget and Policy Priorities) and the Brookings Institution.
+Welcome to my website! Here you'll find more about research I'm working on, courses I've taught, and a little about my work experience. I am the Director of Research and Evaluation at the Ending Community Homelessness Coalition (ECHO). I got my PhD in the [Sociology Department](https://sociology.unc.edu/) at UNC-Chapel Hill in 2020, and I have a Master's from the [LBJ School of Public Affairs](https://lbj.utexas.edu/) at UT-Austin. Before getting my PhD, I worked at the International Budget Partnership (in the Center on Budget and Policy Priorities) and the Brookings Institution.
