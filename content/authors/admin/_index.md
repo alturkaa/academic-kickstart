@@ -64,7 +64,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/Al-Turk_CV_06.25.20_web.pdf
+  link: files/Al-Turk_pa_CV_11.11.2021_web.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -78,4 +78,6 @@ user_groups:
 
 Welcome to my website! Here you'll find more about research I'm working on, courses I've taught, and a little about my work experience. 
 
-I am the Director of Research and Evaluation at the Ending Community Homelessness Coalition (ECHO). I got my PhD in the [Sociology Department](https://sociology.unc.edu/) at UNC-Chapel Hill in 2020, and I have a Master's from the [LBJ School of Public Affairs](https://lbj.utexas.edu/) at UT-Austin. Before getting my PhD, I worked at the International Budget Partnership (in the Center on Budget and Policy Priorities) and the Brookings Institution.
+I have been the Director of Research and Evaluation at the Ending Community Homelessness Coalition ([ECHO](https://austinecho.org)) since the fall of 2020. You can check out our recent reports [here](https://www.austinecho.org/leading-system-change/data-and-reports/), our dashboard [here](https://www.austinecho.org/leading-system-change/performance-monitoring/), and blog posts [here](https://www.austinecho.org/blog/).
+
+I got my PhD in the [Sociology Department](https://sociology.unc.edu/) at UNC-Chapel Hill in 2020, and I have a Master's from the [LBJ School of Public Affairs](https://lbj.utexas.edu/) at UT-Austin. Before getting my PhD, I worked at the International Budget Partnership (in the Center on Budget and Policy Priorities) and the Brookings Institution.
