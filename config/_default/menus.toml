@@ -30,12 +30,12 @@
   name = "Data and Code"  # A link title for your page.
   url = "/post"  # The URL of your page.
   weight = 50  # The position of your page in the menu.
-  
+
 [[main]]
   name = "Policy Reports, Blog Posts, Etc."  # A link title for your page.
   url = "/policy-reports-posts"  # The URL of your page.
   weight = 40  # The position of your page in the menu.
-  
+
 # [[main]]
 #  name = "Durham Planning Commission"
 #  url = "#commission"
@@ -43,7 +43,7 @@
 
 [[main]]
   name = "CV"
-  url = "files/Al-Turk_CV_06.25.20_web.pdf"
+  url = "files/Al-Turk_pa_CV_11.11.2021_web.pdf"
   weight = 70
 
 [[main]]
