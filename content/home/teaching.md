@@ -19,7 +19,7 @@ I have taught the following courses while at UNC. For short course descriptions,
 
 ### Courses
 
-- {{% staticref "files/teaching/soc_mngt_410_syllabus_v3.pdf" %}}MNGT/SOCI 410: Formal Organizations and Bureaucracy (spring 2019){{% /staticref %}}
+- {{% staticref "files/teaching/soc_mngt_410_syllabus.pdf" %}}MNGT/SOCI 410: Formal Organizations and Bureaucracy (spring 2019){{% /staticref %}}
 
 	Assignment guidelines for semester-long project: {{% staticref "files/teaching/research_question_guidelines.pdf" %}}research question{{% /staticref %}}, {{% staticref "files/teaching/analyses_guidelines.pdf" %}}analyses{{% /staticref %}}, and {{% staticref "files/teaching/final_paper_guidelines.pdf" %}}final paper{{% /staticref %}}.
 
