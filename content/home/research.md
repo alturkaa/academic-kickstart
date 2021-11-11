@@ -87,14 +87,14 @@ subtitle = "Research"
 	***Abstract***: How does a new policy paradigm—a coherent set of problem definitions and policy prescriptions—emerge? A new paradigm in education policy in the U.S. emerged in the 1980s that shifted the focus from inequitable access to education toward the need for effective schools and high standards. I draw on government documents, data on changes in academia, and [text analysis](https://akramalturk.net/post/eric-topic-models/) of [academic research](https://akramalturk.net/post/eric-parser/) to advance an argument about how policies, government agencies, and academics drive the demand for and supply of new ideas that shape new paradigms. I find that the demand for new ideas was driven by the government’s funding of policy-focused and program evaluation studies. In conjunction, many academics in education were dissatisfied with the findings and methods in the field, shifting the focus of how to improve student achievement from socioeconomic conditions to school efficiency. The supply of new ideas was driven by education agencies’ increasing funding of studies of assessment and classroom instruction and by an increasing focus, in academia, on school curriculum and educational psychology. While scholarship on policy paradigms often focuses on interest groups, political elites, and public opinion, my findings contribute to an understanding of how political institutions and knowledge regimes shape those paradigms. 
 	
 	***Keywords***: policy paradigms; policy feedback; scientific-intellectual movements; education policy; text analysis
-
-### Works in Progress (Available Upon Request)
-
+	
 - Al-Turk, Akram. “Effectiveness in the Service of Equality: Paradigm Bridging and the Passage of Major Legislation in the United States.” 
 
 	***Abstract***: What role do policy paradigms play in legislative change? Focusing on two dominant paradigms in American politics—equality and effectiveness—I analyze the text of all public laws from 1973 to 1994 to assess the effect that each of the two paradigms has on major legislation. Using word embedding models, I find that laws—especially in social policy domains—that engage with both paradigms are more likely to be major pieces of legislation than laws that only engage with one or the other. I then use education policy as a case study to show that one explanation for this finding is that interest groups that were best at combining and focusing on these two seemingly contradictory paradigms were more likely to be part of the agenda-setting process (e.g., organizations that testified at Congressional hearings) of an important policy change in the mid-1990s and were influential in shaping the Democratic Party’s newfound support for standards-based reforms in education.
 	
 	***Keywords***: policy paradigms; policy adoption; education policy; word embeddings
+
+### Works in Progress (Available Upon Request)
 	
 - Al-Turk, Akram. “Political Partisanship and Collective Action: Explaining the Growth of Interest Groups in the United States.”
 
@@ -113,5 +113,3 @@ subtitle = "Research"
 	***Abstract***: When and how do different types of threats lead to mobilization? While social movement scholars have examined how the costs of action influence collective action—largely by focusing on the effects of state repression—less attention has been paid to the costs of inaction. A few scholars, however, have argued that two dimensions of threat due to inaction may lead to mobilization. The first is a policy threat—a state action that affects a broad swath of the population and that may potentially serve as a focal target for collective action. The second is a physical, temporally proximate threat to a group that is potentially existential. A fuller understanding of how the costs of inaction affect mobilization requires examining the interplay between these two dimensions—broad policy threats and oftentimes localized, temporally proximate threats. Using a dataset I have compiled on nonviolent resistance in the occupied Palestinian territories since 2003, I argue that while local, proximate threats (e.g., home demolitions, the construction of the separation barrier) may have spurred this latest wave of Palestinian resistance, policy threats (e.g., announcements of settlement expansions, the breakdown of peace negotiations) both expand the scope of the movement and sustain it. 
 	
 	***Keywords***: social movements; policy threats; nonviolent resistance
-
-- Al-Turk, Akram and David Rigby. “Framing Contests and Salience: The Emergence and Transformation of Policy Issues in the U.S. Congress, 1948-2015.”
