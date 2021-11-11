@@ -50,15 +50,15 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "alturkaa@live.unc.edu"
+email = "akram.alturk@gmail.com"
 phone = ""
-address = "CB 3210, Hamilton Hall 155, Chapel Hill, North Carolina, 27599"
+address = ""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://alturkaa.youcanbook.me"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
