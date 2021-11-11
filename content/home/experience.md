@@ -19,12 +19,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Planning Commissioner"
+  title = "Director of Research and Evaluation"
+  company = "Ending Community Homelessness Coalition (ECHO)"
+  company_url = "https://austinecho.org"
+  location = "Austin, TX"
+  date_start = "2020-09-01"
+  date_end = ""
+  description = ""
+
+[[experience]]
+  title = "Planning Commissioner (Appointed Position)"
   company = "Durham Planning Commission"
   company_url = "https://durhamnc.gov/1367/Planning-Commission"
   location = "Durham, NC"
   date_start = "2016-07-01"
-  date_end = ""
+  date_end = "2020-09-01"
   description = ""
 
 [[experience]]
